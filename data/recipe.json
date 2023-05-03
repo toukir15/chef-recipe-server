@@ -1,0 +1,326 @@
+[
+    {
+        "name": "John Smith",
+        "chef_id": 1,
+        "recipes": [
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "name": "John Smith",
+        "chef_id": 2,
+        "recipes": [
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "name": "John Smith",
+        "chef_id": 3,
+        "recipes": [
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "name": "John Smith",
+        "chef_id": 4,
+        "recipes": [
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "name": "John Smith",
+        "chef_id": 5,
+        "recipes": [
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "name": "John Smith",
+        "chef_id": 6,
+        "recipes": [
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "spaghetti",
+                    "basil leaves",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil",
+                    "garlic",
+                    "salt",
+                    "black pepper"
+                ],
+                "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
+    }
+]
