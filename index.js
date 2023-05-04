@@ -6,22 +6,23 @@ const port = 5000
 
 // 3
 app.use(cors())
-// 2
-const chef = require('./data/chef.json')
+
 //4
 const recipe = require('./data/recipe.json')
+const review = require('./data/review.json')
 
 app.get('/', (req, res) => {
     res.send('Hello World!')
 })
 
-// 2
-app.get('/chef', (req, res) => {
-    res.send(chef)
-})
+
 //4
 app.get('/recipe', (req, res) => {
     res.send(recipe)
+})
+
+app.get("/review", (req, res) => {
+    res.send(review)
 })
 
 //5

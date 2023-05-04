@@ -5,7 +5,8 @@
         "chef_details": "Chef John is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative dishes and unique flavor combinations.",
         "chef_name": "John Smith",
         "experience": "20 years",
-        "number_of_recipe": 3
+        "number_of_recipe": 3,
+        "likes": 100
     },
     {
         "chef_id": 2,
@@ -13,7 +14,8 @@
         "chef_details": "Chef John is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative dishes and unique flavor combinations.",
         "chef_name": "John Smith",
         "experience": "20 years",
-        "number_of_recipe": 3
+        "number_of_recipe": 3,
+        "likes": 100
     },
     {
         "chef_id": 3,
@@ -21,7 +23,8 @@
         "chef_details": "Chef John is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative dishes and unique flavor combinations.",
         "chef_name": "John Smith",
         "experience": "20 years",
-        "number_of_recipe": 75
+        "number_of_recipe": 3,
+        "likes": 100
     },
     {
         "chef_id": 4,
@@ -29,7 +32,8 @@
         "chef_details": "Chef John is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative dishes and unique flavor combinations.",
         "chef_name": "John Smith",
         "experience": "20 years",
-        "number_of_recipe": 3
+        "number_of_recipe": 3,
+        "likes": 100
     },
     {
         "chef_id": 5,
@@ -37,7 +41,8 @@
         "chef_details": "Chef John is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative dishes and unique flavor combinations.",
         "chef_name": "John Smith",
         "experience": "20 years",
-        "number_of_recipe": 3
+        "number_of_recipe": 3,
+        "likes": 100
     },
     {
         "chef_id": 6,
@@ -45,6 +50,7 @@
         "chef_details": "Chef John is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative dishes and unique flavor combinations.",
         "chef_name": "John Smith",
         "experience": "20 years",
-        "number_of_recipe": 3
+        "number_of_recipe": 3,
+        "likes": 100
     }
 ]
