@@ -3,7 +3,7 @@
         "id": 1,
         "review_title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid nulla cum at, voluptatum debitis possimus, vero soluta quam, eaque similique harum eveniet consequatur! Harum dolorem assumenda eveniet est libero voluptates porro itaque doloremque odio cupiditate laudantium enim sapiente optio quibusdam, cumque facere architecto odit necessitatibus officiis nihil? Laboriosam, beatae delectus?",
         "img": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg",
-        "name": "nothing",
+        "name": "Arman",
         "status": "COOK"
     },
     {
@@ -17,7 +17,7 @@
         "id": 3,
         "review_title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid nulla cum at, voluptatum debitis possimus, vero soluta quam, eaque similique harum eveniet consequatur! Harum dolorem assumenda eveniet est libero voluptates porro itaque doloremque odio cupiditate laudantium enim sapiente optio quibusdam, cumque facere architecto odit necessitatibus officiis nihil? Laboriosam, beatae delectus?",
         "img": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg",
-        "name": "tanvir",
+        "name": "Tanvir",
         "status": "COOK"
     }
 ]
