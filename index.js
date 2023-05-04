@@ -28,10 +28,7 @@ app.get('/recipe', (req, res) => {
 app.get('/recipe/:id', (req, res) => {
     const id = req.params.id;
     const singleRecipe = recipe.find((r) => r.chef_id == id)
-    // console.log(id);
-    console.log(singleRecipe);
     res.send(singleRecipe)
-    // res.send(recipe)
 })
 
 app.listen(port, () => {

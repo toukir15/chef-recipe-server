@@ -2,51 +2,28 @@
     {
         "name": "John Smith",
         "chef_id": 1,
+        "chef_picture": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         "recipes": [
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": "spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt, black peppe",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
             },
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": " spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt,black pepper",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
             },
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": "spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt,black pepper",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
@@ -56,51 +33,28 @@
     {
         "name": "John Smith",
         "chef_id": 2,
+        "chef_picture": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         "recipes": [
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": "spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt, black peppe",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
             },
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": " spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt,black pepper",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
             },
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": "spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt,black pepper",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
@@ -110,51 +64,28 @@
     {
         "name": "John Smith",
         "chef_id": 3,
+        "chef_picture": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         "recipes": [
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": "spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt, black peppe",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
             },
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": " spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt,black pepper",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
             },
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": "spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt,black pepper",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
@@ -164,51 +95,28 @@
     {
         "name": "John Smith",
         "chef_id": 4,
+        "chef_picture": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         "recipes": [
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": "spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt, black peppe",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
             },
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": " spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt,black pepper",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
             },
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": "spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt,black pepper",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
@@ -218,51 +126,28 @@
     {
         "name": "John Smith",
         "chef_id": 5,
+        "chef_picture": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         "recipes": [
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": "spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt, black peppe",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
             },
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": " spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt,black pepper",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
             },
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": "spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt,black pepper",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
@@ -272,51 +157,28 @@
     {
         "name": "John Smith",
         "chef_id": 6,
+        "chef_picture": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         "recipes": [
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": "spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt, black peppe",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
             },
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": " spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt,black pepper",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
             },
             {
                 "name": "Pesto Pasta",
-                "ingredients": [
-                    "spaghetti",
-                    "basil leaves",
-                    "pine nuts",
-                    "parmesan cheese",
-                    "olive oil",
-                    "garlic",
-                    "salt",
-                    "black pepper"
-                ],
+                "recipe_picture": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1480&t=st=1683134001~exp=1683134601~hmac=f54d2873431d0dd29b2fd15436177d918b0ba44ef83ae11a25a12ed09ffec7b8",
+                "ingredients": "spaghetti, basil leaves, pine nuts, parmesan cheese, olive oil, garlic, salt,black pepper",
                 "cooking_method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a food processor, combine the basil leaves, pine nuts, garlic, and parmesan cheese. Pulse until roughly chopped. 3. With the food processor running, drizzle in the olive oil until a smooth pesto forms. 4. Drain the spaghetti and toss with the pesto. Season with salt and black pepper to taste.",
                 "rating": 4.5,
                 "favorite": false
