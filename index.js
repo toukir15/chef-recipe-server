@@ -1,9 +1,11 @@
 const express = require('express')
 const app = express()
-
+// 3
+var cors = require('cors')
 const port = 5000
 
-
+// 3
+app.use(cors())
 // 2
 const chef = require('./data/chef.json')
 //4
