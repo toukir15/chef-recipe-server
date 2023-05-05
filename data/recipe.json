@@ -2,7 +2,11 @@
     {
         "name": "Tanvir Ahmed",
         "chef_id": 1,
-        "chef_picture": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "chef_picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?size=626&ext=jpg&ga=GA1.2.431432617.1673875862&semt=ais",
+        "chef_bio": "Sarah believes in using only the freshest, highest-quality ingredients and letting them speak for themselves. She is known for her innovative and playful approach to classic dishes, often incorporating unexpected flavors and textures. Her goal is to create an unforgettable dining experience for each and every guest, one that combines impeccable technique with a sense of whimsy and fun.",
+        "likes": 100,
+        "number_of_recipe": 3,
+        "experience": "20 Years",
         "recipes": [
             {
                 "name": "Chicken Curry",
@@ -21,10 +25,10 @@
                 "favorite": false
             },
             {
-                "name": "Ras Malai",
-                "recipe_picture": "https://media.istockphoto.com/id/514481051/photo/rasmalai-a-bengali-dessert-with-paneer-cheese.jpg?s=1024x1024&w=is&k=20&c=Dbb92UdeoQ9k9O7N3LjOPTGuH1mSwXakjcVTk7Ysvh0=",
-                "ingredients": "1 liter of whole milk,1 tablespoon lemon juice,3 cups water,1 cup sugar, 8 Rasgullas (homemade or store-bought),  2 cups of milk, 1/2 cup sugar, 1/2 teaspoon ground cardamom, 1/4 cup chopped nuts (such as pistachios or almonds)",
-                "cooking_method": "1. To make the Rasgulla, bring the whole milk to a boil in a heavy-bottomed pot. Once it reaches a boil, turn off the heat and add the lemon juice. Stir well and let it sit for a few minutes until the milk curdles and the whey separates. 2. Strain the curdled milk through a cheesecloth-lined colander to separate the curds from the whey. Rinse the curds under cold running water to remove the lemony flavor. 3. Squeeze out the excess water and knead the curds for a few minutes until it forms a smooth dough. 4. Divide the dough into small balls and set them aside. 5. In a separate pot, add the water and sugar and bring it to a boil. Add the Rasgulla balls and cover the pot with a lid. 6. Let the Rasgullas cook in the syrup for 10-12 minutes until they double in size and become spongy. 7. Remove the Rasgullas from the syrup and set them aside. 8. To make the Ras Malai, add the milk and sugar to a separate pot and bring it to a boil. Reduce the heat to low and let the milk simmer for 10-15 minutes until it thickens. 9. Add the cardamom and stir well. 10. Gently add the cooked Rasgullas to the milk mixture and let them soak for 30 minutes. 11. Garnish with chopped nuts and serve chilled. ",
+                "name": "Chicken Biryani",
+                "recipe_picture": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=1480&t=st=1683262785~exp=1683263385~hmac=e95709c018ad40be53fe8c0f80b0aa3960c7a003395953b2d3b16f20889d40ac",
+                "ingredients": "2 cups of basmati rice1 kg chicken, cut into pieces,2 large onions, sliced thinly,3-4 green chilies, chopped,1/2 cup yogurt,2 tbsp ginger paste,2 tbsp garlic paste,1 tbsp cumin powder,1 tbsp coriander powder,1 tbsp garam masala powder,1 tsp red chili powder,1 tsp turmeric powder,Salt to taste,1/2 cup cooking oil or ghee,2 cups of water,2-3 bay leaves,3-4 cardamom pods,3-4 cloves, 1 cinnamon stick",
+                "cooking_method": "1. Rinse the rice in water and soak it for 30 minutes. Drain the water and keep the rice aside. 2. Marinate the chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, garam masala powder, red chili powder, turmeric powder, and salt for at least 30 minutes. 3. Heat oil or ghee in a large pot or deep pan over medium heat. Add sliced onions, bay leaves, cardamom pods, cloves, and cinnamon stick. Fry until the onions turn golden brown. 4. Add the marinated chicken to the pot and cook for 10-15 minutes or until the chicken is almost done. 5. Add chopped green chilies and mix well. 6. Add the soaked rice to the pot and stir well so that the rice is coated with the spices and chicken. 7. Add 2 cups of water and salt to taste. Bring the mixture to a boil. 8. Cover the pot and reduce the heat to low. Cook for 20-25 minutes or until the rice is fully cooked and the water has evaporated. 9. Turn off the heat and let the biryani sit for 5-10 minutes before serving. 10. Serve hot with raita, salad, or any side dish of your choice.",
                 "rating": 4.5,
                 "favorite": false
             }
@@ -33,7 +37,11 @@
     {
         "name": "Najmul Hasan",
         "chef_id": 2,
-        "chef_picture": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683222937~exp=1683223537~hmac=71d135dc7f12afa133bd193982c38d24a57823ff85d97a422e0e5c4c46bea1f3",
+        "chef_bio": "Sarah believes in using only the freshest, highest-quality ingredients and letting them speak for themselves. She is known for her innovative and playful approach to classic dishes, often incorporating unexpected flavors and textures. Her goal is to create an unforgettable dining experience for each and every guest, one that combines impeccable technique with a sense of whimsy and fun.",
+        "likes": 100,
+        "number_of_recipe": 3,
+        "experience": "20 Years",
         "recipes": [
             {
                 "name": "Chicken Curry",
@@ -52,10 +60,10 @@
                 "favorite": false
             },
             {
-                "name": "Ras Malai",
-                "recipe_picture": "https://media.istockphoto.com/id/514481051/photo/rasmalai-a-bengali-dessert-with-paneer-cheese.jpg?s=1024x1024&w=is&k=20&c=Dbb92UdeoQ9k9O7N3LjOPTGuH1mSwXakjcVTk7Ysvh0=",
-                "ingredients": "1 liter of whole milk,1 tablespoon lemon juice,3 cups water,1 cup sugar, 8 Rasgullas (homemade or store-bought),  2 cups of milk, 1/2 cup sugar, 1/2 teaspoon ground cardamom, 1/4 cup chopped nuts (such as pistachios or almonds)",
-                "cooking_method": "1. To make the Rasgulla, bring the whole milk to a boil in a heavy-bottomed pot. Once it reaches a boil, turn off the heat and add the lemon juice. Stir well and let it sit for a few minutes until the milk curdles and the whey separates. 2. Strain the curdled milk through a cheesecloth-lined colander to separate the curds from the whey. Rinse the curds under cold running water to remove the lemony flavor. 3. Squeeze out the excess water and knead the curds for a few minutes until it forms a smooth dough. 4. Divide the dough into small balls and set them aside. 5. In a separate pot, add the water and sugar and bring it to a boil. Add the Rasgulla balls and cover the pot with a lid. 6. Let the Rasgullas cook in the syrup for 10-12 minutes until they double in size and become spongy. 7. Remove the Rasgullas from the syrup and set them aside. 8. To make the Ras Malai, add the milk and sugar to a separate pot and bring it to a boil. Reduce the heat to low and let the milk simmer for 10-15 minutes until it thickens. 9. Add the cardamom and stir well. 10. Gently add the cooked Rasgullas to the milk mixture and let them soak for 30 minutes. 11. Garnish with chopped nuts and serve chilled. ",
+                "name": "Chicken Biryani",
+                "recipe_picture": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=1480&t=st=1683262785~exp=1683263385~hmac=e95709c018ad40be53fe8c0f80b0aa3960c7a003395953b2d3b16f20889d40ac",
+                "ingredients": "2 cups of basmati rice1 kg chicken, cut into pieces,2 large onions, sliced thinly,3-4 green chilies, chopped,1/2 cup yogurt,2 tbsp ginger paste,2 tbsp garlic paste,1 tbsp cumin powder,1 tbsp coriander powder,1 tbsp garam masala powder,1 tsp red chili powder,1 tsp turmeric powder,Salt to taste,1/2 cup cooking oil or ghee,2 cups of water,2-3 bay leaves,3-4 cardamom pods,3-4 cloves, 1 cinnamon stick",
+                "cooking_method": "1. Rinse the rice in water and soak it for 30 minutes. Drain the water and keep the rice aside. 2. Marinate the chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, garam masala powder, red chili powder, turmeric powder, and salt for at least 30 minutes. 3. Heat oil or ghee in a large pot or deep pan over medium heat. Add sliced onions, bay leaves, cardamom pods, cloves, and cinnamon stick. Fry until the onions turn golden brown. 4. Add the marinated chicken to the pot and cook for 10-15 minutes or until the chicken is almost done. 5. Add chopped green chilies and mix well. 6. Add the soaked rice to the pot and stir well so that the rice is coated with the spices and chicken. 7. Add 2 cups of water and salt to taste. Bring the mixture to a boil. 8. Cover the pot and reduce the heat to low. Cook for 20-25 minutes or until the rice is fully cooked and the water has evaporated. 9. Turn off the heat and let the biryani sit for 5-10 minutes before serving. 10. Serve hot with raita, salad, or any side dish of your choice.",
                 "rating": 4.5,
                 "favorite": false
             }
@@ -64,7 +72,11 @@
     {
         "name": "Toukir Ahmed",
         "chef_id": 3,
-        "chef_picture": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.1.431432617.1673875862&semt=ais",
+        "chef_bio": "Sarah believes in using only the freshest, highest-quality ingredients and letting them speak for themselves. She is known for her innovative and playful approach to classic dishes, often incorporating unexpected flavors and textures. Her goal is to create an unforgettable dining experience for each and every guest, one that combines impeccable technique with a sense of whimsy and fun.",
+        "likes": 100,
+        "number_of_recipe": 3,
+        "experience": "20 Years",
         "recipes": [
             {
                 "name": "Chicken Curry",
@@ -83,10 +95,10 @@
                 "favorite": false
             },
             {
-                "name": "Ras Malai",
-                "recipe_picture": "https://media.istockphoto.com/id/514481051/photo/rasmalai-a-bengali-dessert-with-paneer-cheese.jpg?s=1024x1024&w=is&k=20&c=Dbb92UdeoQ9k9O7N3LjOPTGuH1mSwXakjcVTk7Ysvh0=",
-                "ingredients": "1 liter of whole milk,1 tablespoon lemon juice,3 cups water,1 cup sugar, 8 Rasgullas (homemade or store-bought),  2 cups of milk, 1/2 cup sugar, 1/2 teaspoon ground cardamom, 1/4 cup chopped nuts (such as pistachios or almonds)",
-                "cooking_method": "1. To make the Rasgulla, bring the whole milk to a boil in a heavy-bottomed pot. Once it reaches a boil, turn off the heat and add the lemon juice. Stir well and let it sit for a few minutes until the milk curdles and the whey separates. 2. Strain the curdled milk through a cheesecloth-lined colander to separate the curds from the whey. Rinse the curds under cold running water to remove the lemony flavor. 3. Squeeze out the excess water and knead the curds for a few minutes until it forms a smooth dough. 4. Divide the dough into small balls and set them aside. 5. In a separate pot, add the water and sugar and bring it to a boil. Add the Rasgulla balls and cover the pot with a lid. 6. Let the Rasgullas cook in the syrup for 10-12 minutes until they double in size and become spongy. 7. Remove the Rasgullas from the syrup and set them aside. 8. To make the Ras Malai, add the milk and sugar to a separate pot and bring it to a boil. Reduce the heat to low and let the milk simmer for 10-15 minutes until it thickens. 9. Add the cardamom and stir well. 10. Gently add the cooked Rasgullas to the milk mixture and let them soak for 30 minutes. 11. Garnish with chopped nuts and serve chilled. ",
+                "name": "Chicken Biryani",
+                "recipe_picture": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=1480&t=st=1683262785~exp=1683263385~hmac=e95709c018ad40be53fe8c0f80b0aa3960c7a003395953b2d3b16f20889d40ac",
+                "ingredients": "2 cups of basmati rice1 kg chicken, cut into pieces,2 large onions, sliced thinly,3-4 green chilies, chopped,1/2 cup yogurt,2 tbsp ginger paste,2 tbsp garlic paste,1 tbsp cumin powder,1 tbsp coriander powder,1 tbsp garam masala powder,1 tsp red chili powder,1 tsp turmeric powder,Salt to taste,1/2 cup cooking oil or ghee,2 cups of water,2-3 bay leaves,3-4 cardamom pods,3-4 cloves, 1 cinnamon stick",
+                "cooking_method": "1. Rinse the rice in water and soak it for 30 minutes. Drain the water and keep the rice aside. 2. Marinate the chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, garam masala powder, red chili powder, turmeric powder, and salt for at least 30 minutes. 3. Heat oil or ghee in a large pot or deep pan over medium heat. Add sliced onions, bay leaves, cardamom pods, cloves, and cinnamon stick. Fry until the onions turn golden brown. 4. Add the marinated chicken to the pot and cook for 10-15 minutes or until the chicken is almost done. 5. Add chopped green chilies and mix well. 6. Add the soaked rice to the pot and stir well so that the rice is coated with the spices and chicken. 7. Add 2 cups of water and salt to taste. Bring the mixture to a boil. 8. Cover the pot and reduce the heat to low. Cook for 20-25 minutes or until the rice is fully cooked and the water has evaporated. 9. Turn off the heat and let the biryani sit for 5-10 minutes before serving. 10. Serve hot with raita, salad, or any side dish of your choice.",
                 "rating": 4.5,
                 "favorite": false
             }
@@ -95,7 +107,11 @@
     {
         "name": "Zubait Zidan",
         "chef_id": 4,
-        "chef_picture": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg?w=1480&t=st=1683276249~exp=1683276849~hmac=1574d798381461735b81f0cb16a712eac3f81c7ec99e4f4b9f31b7763e496593",
+        "chef_bio": "Sarah believes in using only the freshest, highest-quality ingredients and letting them speak for themselves. She is known for her innovative and playful approach to classic dishes, often incorporating unexpected flavors and textures. Her goal is to create an unforgettable dining experience for each and every guest, one that combines impeccable technique with a sense of whimsy and fun.",
+        "likes": 100,
+        "number_of_recipe": 3,
+        "experience": "20 Years",
         "recipes": [
             {
                 "name": "Chicken Curry",
@@ -114,10 +130,10 @@
                 "favorite": false
             },
             {
-                "name": "Ras Malai",
-                "recipe_picture": "https://media.istockphoto.com/id/514481051/photo/rasmalai-a-bengali-dessert-with-paneer-cheese.jpg?s=1024x1024&w=is&k=20&c=Dbb92UdeoQ9k9O7N3LjOPTGuH1mSwXakjcVTk7Ysvh0=",
-                "ingredients": "1 liter of whole milk,1 tablespoon lemon juice,3 cups water,1 cup sugar, 8 Rasgullas (homemade or store-bought),  2 cups of milk, 1/2 cup sugar, 1/2 teaspoon ground cardamom, 1/4 cup chopped nuts (such as pistachios or almonds)",
-                "cooking_method": "1. To make the Rasgulla, bring the whole milk to a boil in a heavy-bottomed pot. Once it reaches a boil, turn off the heat and add the lemon juice. Stir well and let it sit for a few minutes until the milk curdles and the whey separates. 2. Strain the curdled milk through a cheesecloth-lined colander to separate the curds from the whey. Rinse the curds under cold running water to remove the lemony flavor. 3. Squeeze out the excess water and knead the curds for a few minutes until it forms a smooth dough. 4. Divide the dough into small balls and set them aside. 5. In a separate pot, add the water and sugar and bring it to a boil. Add the Rasgulla balls and cover the pot with a lid. 6. Let the Rasgullas cook in the syrup for 10-12 minutes until they double in size and become spongy. 7. Remove the Rasgullas from the syrup and set them aside. 8. To make the Ras Malai, add the milk and sugar to a separate pot and bring it to a boil. Reduce the heat to low and let the milk simmer for 10-15 minutes until it thickens. 9. Add the cardamom and stir well. 10. Gently add the cooked Rasgullas to the milk mixture and let them soak for 30 minutes. 11. Garnish with chopped nuts and serve chilled. ",
+                "name": "Chicken Biryani",
+                "recipe_picture": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=1480&t=st=1683262785~exp=1683263385~hmac=e95709c018ad40be53fe8c0f80b0aa3960c7a003395953b2d3b16f20889d40ac",
+                "ingredients": "2 cups of basmati rice1 kg chicken, cut into pieces,2 large onions, sliced thinly,3-4 green chilies, chopped,1/2 cup yogurt,2 tbsp ginger paste,2 tbsp garlic paste,1 tbsp cumin powder,1 tbsp coriander powder,1 tbsp garam masala powder,1 tsp red chili powder,1 tsp turmeric powder,Salt to taste,1/2 cup cooking oil or ghee,2 cups of water,2-3 bay leaves,3-4 cardamom pods,3-4 cloves, 1 cinnamon stick",
+                "cooking_method": "1. Rinse the rice in water and soak it for 30 minutes. Drain the water and keep the rice aside. 2. Marinate the chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, garam masala powder, red chili powder, turmeric powder, and salt for at least 30 minutes. 3. Heat oil or ghee in a large pot or deep pan over medium heat. Add sliced onions, bay leaves, cardamom pods, cloves, and cinnamon stick. Fry until the onions turn golden brown. 4. Add the marinated chicken to the pot and cook for 10-15 minutes or until the chicken is almost done. 5. Add chopped green chilies and mix well. 6. Add the soaked rice to the pot and stir well so that the rice is coated with the spices and chicken. 7. Add 2 cups of water and salt to taste. Bring the mixture to a boil. 8. Cover the pot and reduce the heat to low. Cook for 20-25 minutes or until the rice is fully cooked and the water has evaporated. 9. Turn off the heat and let the biryani sit for 5-10 minutes before serving. 10. Serve hot with raita, salad, or any side dish of your choice.",
                 "rating": 4.5,
                 "favorite": false
             }
@@ -126,7 +142,11 @@
     {
         "name": "Robiul Islam",
         "chef_id": 5,
-        "chef_picture": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.1.431432617.1673875862&semt=ais",
+        "chef_bio": "Sarah believes in using only the freshest, highest-quality ingredients and letting them speak for themselves. She is known for her innovative and playful approach to classic dishes, often incorporating unexpected flavors and textures. Her goal is to create an unforgettable dining experience for each and every guest, one that combines impeccable technique with a sense of whimsy and fun.",
+        "likes": 100,
+        "number_of_recipe": 3,
+        "experience": "20 Years",
         "recipes": [
             {
                 "name": "Chicken Curry",
@@ -145,10 +165,10 @@
                 "favorite": false
             },
             {
-                "name": "Ras Malai",
-                "recipe_picture": "https://media.istockphoto.com/id/514481051/photo/rasmalai-a-bengali-dessert-with-paneer-cheese.jpg?s=1024x1024&w=is&k=20&c=Dbb92UdeoQ9k9O7N3LjOPTGuH1mSwXakjcVTk7Ysvh0=",
-                "ingredients": "1 liter of whole milk,1 tablespoon lemon juice,3 cups water,1 cup sugar, 8 Rasgullas (homemade or store-bought),  2 cups of milk, 1/2 cup sugar, 1/2 teaspoon ground cardamom, 1/4 cup chopped nuts (such as pistachios or almonds)",
-                "cooking_method": "1. To make the Rasgulla, bring the whole milk to a boil in a heavy-bottomed pot. Once it reaches a boil, turn off the heat and add the lemon juice. Stir well and let it sit for a few minutes until the milk curdles and the whey separates. 2. Strain the curdled milk through a cheesecloth-lined colander to separate the curds from the whey. Rinse the curds under cold running water to remove the lemony flavor. 3. Squeeze out the excess water and knead the curds for a few minutes until it forms a smooth dough. 4. Divide the dough into small balls and set them aside. 5. In a separate pot, add the water and sugar and bring it to a boil. Add the Rasgulla balls and cover the pot with a lid. 6. Let the Rasgullas cook in the syrup for 10-12 minutes until they double in size and become spongy. 7. Remove the Rasgullas from the syrup and set them aside. 8. To make the Ras Malai, add the milk and sugar to a separate pot and bring it to a boil. Reduce the heat to low and let the milk simmer for 10-15 minutes until it thickens. 9. Add the cardamom and stir well. 10. Gently add the cooked Rasgullas to the milk mixture and let them soak for 30 minutes. 11. Garnish with chopped nuts and serve chilled. ",
+                "name": "Chicken Biryani",
+                "recipe_picture": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=1480&t=st=1683262785~exp=1683263385~hmac=e95709c018ad40be53fe8c0f80b0aa3960c7a003395953b2d3b16f20889d40ac",
+                "ingredients": "2 cups of basmati rice1 kg chicken, cut into pieces,2 large onions, sliced thinly,3-4 green chilies, chopped,1/2 cup yogurt,2 tbsp ginger paste,2 tbsp garlic paste,1 tbsp cumin powder,1 tbsp coriander powder,1 tbsp garam masala powder,1 tsp red chili powder,1 tsp turmeric powder,Salt to taste,1/2 cup cooking oil or ghee,2 cups of water,2-3 bay leaves,3-4 cardamom pods,3-4 cloves, 1 cinnamon stick",
+                "cooking_method": "1. Rinse the rice in water and soak it for 30 minutes. Drain the water and keep the rice aside. 2. Marinate the chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, garam masala powder, red chili powder, turmeric powder, and salt for at least 30 minutes. 3. Heat oil or ghee in a large pot or deep pan over medium heat. Add sliced onions, bay leaves, cardamom pods, cloves, and cinnamon stick. Fry until the onions turn golden brown. 4. Add the marinated chicken to the pot and cook for 10-15 minutes or until the chicken is almost done. 5. Add chopped green chilies and mix well. 6. Add the soaked rice to the pot and stir well so that the rice is coated with the spices and chicken. 7. Add 2 cups of water and salt to taste. Bring the mixture to a boil. 8. Cover the pot and reduce the heat to low. Cook for 20-25 minutes or until the rice is fully cooked and the water has evaporated. 9. Turn off the heat and let the biryani sit for 5-10 minutes before serving. 10. Serve hot with raita, salad, or any side dish of your choice.",
                 "rating": 4.5,
                 "favorite": false
             }
@@ -157,7 +177,11 @@
     {
         "name": "Shakib Khan",
         "chef_id": 6,
-        "chef_picture": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?size=626&ext=jpg&ga=GA1.2.431432617.1673875862&semt=ais",
+        "chef_bio": "Sarah believes in using only the freshest, highest-quality ingredients and letting them speak for themselves. She is known for her innovative and playful approach to classic dishes, often incorporating unexpected flavors and textures. Her goal is to create an unforgettable dining experience for each and every guest, one that combines impeccable technique with a sense of whimsy and fun.",
+        "likes": 100,
+        "number_of_recipe": 3,
+        "experience": "20 Years",
         "recipes": [
             {
                 "name": "Chicken Curry",
@@ -176,10 +200,10 @@
                 "favorite": false
             },
             {
-                "name": "Ras Malai",
-                "recipe_picture": "https://media.istockphoto.com/id/514481051/photo/rasmalai-a-bengali-dessert-with-paneer-cheese.jpg?s=1024x1024&w=is&k=20&c=Dbb92UdeoQ9k9O7N3LjOPTGuH1mSwXakjcVTk7Ysvh0=",
-                "ingredients": "1 liter of whole milk,1 tablespoon lemon juice,3 cups water,1 cup sugar, 8 Rasgullas (homemade or store-bought),  2 cups of milk, 1/2 cup sugar, 1/2 teaspoon ground cardamom, 1/4 cup chopped nuts (such as pistachios or almonds)",
-                "cooking_method": "1. To make the Rasgulla, bring the whole milk to a boil in a heavy-bottomed pot. Once it reaches a boil, turn off the heat and add the lemon juice. Stir well and let it sit for a few minutes until the milk curdles and the whey separates. 2. Strain the curdled milk through a cheesecloth-lined colander to separate the curds from the whey. Rinse the curds under cold running water to remove the lemony flavor. 3. Squeeze out the excess water and knead the curds for a few minutes until it forms a smooth dough. 4. Divide the dough into small balls and set them aside. 5. In a separate pot, add the water and sugar and bring it to a boil. Add the Rasgulla balls and cover the pot with a lid. 6. Let the Rasgullas cook in the syrup for 10-12 minutes until they double in size and become spongy. 7. Remove the Rasgullas from the syrup and set them aside. 8. To make the Ras Malai, add the milk and sugar to a separate pot and bring it to a boil. Reduce the heat to low and let the milk simmer for 10-15 minutes until it thickens. 9. Add the cardamom and stir well. 10. Gently add the cooked Rasgullas to the milk mixture and let them soak for 30 minutes. 11. Garnish with chopped nuts and serve chilled. ",
+                "name": "Chicken Biryani",
+                "recipe_picture": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=1480&t=st=1683262785~exp=1683263385~hmac=e95709c018ad40be53fe8c0f80b0aa3960c7a003395953b2d3b16f20889d40ac",
+                "ingredients": "2 cups of basmati rice1 kg chicken, cut into pieces,2 large onions, sliced thinly,3-4 green chilies, chopped,1/2 cup yogurt,2 tbsp ginger paste,2 tbsp garlic paste,1 tbsp cumin powder,1 tbsp coriander powder,1 tbsp garam masala powder,1 tsp red chili powder,1 tsp turmeric powder,Salt to taste,1/2 cup cooking oil or ghee,2 cups of water,2-3 bay leaves,3-4 cardamom pods,3-4 cloves, 1 cinnamon stick",
+                "cooking_method": "1. Rinse the rice in water and soak it for 30 minutes. Drain the water and keep the rice aside. 2. Marinate the chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, garam masala powder, red chili powder, turmeric powder, and salt for at least 30 minutes. 3. Heat oil or ghee in a large pot or deep pan over medium heat. Add sliced onions, bay leaves, cardamom pods, cloves, and cinnamon stick. Fry until the onions turn golden brown. 4. Add the marinated chicken to the pot and cook for 10-15 minutes or until the chicken is almost done. 5. Add chopped green chilies and mix well. 6. Add the soaked rice to the pot and stir well so that the rice is coated with the spices and chicken. 7. Add 2 cups of water and salt to taste. Bring the mixture to a boil. 8. Cover the pot and reduce the heat to low. Cook for 20-25 minutes or until the rice is fully cooked and the water has evaporated. 9. Turn off the heat and let the biryani sit for 5-10 minutes before serving. 10. Serve hot with raita, salad, or any side dish of your choice.",
                 "rating": 4.5,
                 "favorite": false
             }
